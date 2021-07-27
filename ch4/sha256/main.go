@@ -1,5 +1,5 @@
 // SHA256 exibe e compara os digests SHA256 de "x" e "X".
-package main
+package sha256
 
 import (
 	"crypto/sha256"
